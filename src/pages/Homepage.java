@@ -2,14 +2,12 @@ package pages;
 
 public class Homepage {
 
-	
-	
-	public void getTitleOfPage()
-	{
-		System.out.println("Title of page edited by brown");
-	}
-	
-	
-	
-	
+
+public void get title of page()
+
+{
+   system.out.println("Title of page change by blue");
+}
+
+
 }
